@@ -9,4 +9,4 @@ O código está organizado em diversas funções para melhorar a legibilidade e 
 - `setup:` Configura a aplicação obtendo países e renderizando-os na página da web.
 
 ## Link
-https://joao123433.github.io/Calculadora-Cientifica
+https://joao123433.github.io/get-countries
